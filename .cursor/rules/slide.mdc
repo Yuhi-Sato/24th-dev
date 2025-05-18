@@ -1,0 +1,5 @@
+---
+description: *.md
+globs: 
+alwaysApply: false
+---
