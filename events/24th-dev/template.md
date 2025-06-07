@@ -3,6 +3,7 @@
 <!-- TODO: ファイル内のthemeをイベントテーマに変更する。 -->
 <!-- TODO: ファイル内のreception_start_atを受付開始時間に変更する。デフォルト値は18:30です。 -->
 <!-- TODO: ファイル内のreception_end_atを受付終了時間に変更する。デフォルト値は19:15です。 -->
+<!-- TODO: ファイル内のreceptionistを受付担当のXアカウントIDに変更する。 -->
 
 # 【24卒エンジニア】theme
 
@@ -103,7 +104,7 @@ LT（ライトニングトーク）は、10分程度で自由なテーマにつ�
 
 ## お問い合わせ :telephone:
 運営のDMまでお願いします。  
-<!-- TODO: 受付担当のDMアカウントを記載する。 -->
+[@receptionist](https://x.com/receptionist)
 
 
 ## 注意事項 :warning:
