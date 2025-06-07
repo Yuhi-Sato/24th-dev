@@ -17,7 +17,8 @@ alwaysApply: false
 |---------------------------------|--------------------------------------------------|----------------------------------------------|
 | `theme`                         | イベントのテーマ（簡潔に・引用符不要）           | `AI × Construction Tech`                     |
 | `sponsor`                       | スポンサー企業名                                 | `株式会社Example`                            |
-|`receptionist`         |    受付担当者（デフォルト値はyuhi_junior）  |  yuhi_junior
+| `number`                         | 第何回か  | 3  |
+|`receptionist`         |    受付担当者（デフォルト値はyuhi_junior）  |  yuhi_junior  |
 | `reception_start_at`            | 受付開始時刻（24時間表記 `HH:MM`でデフォルト値は`18:30`） | `18:30`                                      |
 | `reception_end_at`     | 受付終了時刻（24時間表記 `HH:MM`でデフォルト値は`19:15`）         | `19:15`                                      |
 
