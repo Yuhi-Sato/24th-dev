@@ -26,7 +26,7 @@ style: |
 <!-- TODO: 日付の書き換え -->
 20xx年xx月xx日
 
-![bg right:40% 80%](./images/24th-enjineers.png)
+![bg right:40% 80%](../images/24th-enjineers.png)
 
 ---
 
@@ -34,7 +34,7 @@ style: |
 
 <!--TODO: 司会者の内容に書き換え -->
 
-![bg right:40% 80%](./images/goho.jpg)
+![bg right:40% 80%](../images/goho.jpg)
 - 名前: yuhi (@yuhi_junior)
 - 所属: 株式会社プレックス 24卒
 - 業務: Ruby on Rails / React
