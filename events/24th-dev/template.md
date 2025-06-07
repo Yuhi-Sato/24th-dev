@@ -6,7 +6,7 @@
 <!-- TODO: ファイル内のreception_end_atを受付終了時間に変更する。デフォルト値は19:15です。 -->
 <!-- TODO: ファイル内のreceptionistを受付担当のXアカウントIDに変更する。 -->
 
-# 24th Dev ~themeシェア会~ #number
+# 24th Dev themeシェア会 #number
 
 ## イベント概要 :dragon:
 **対象:**  
